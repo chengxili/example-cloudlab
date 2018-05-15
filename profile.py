@@ -1,4 +1,3 @@
-%%writefile examples/profile.py
 import geni.portal as portal
 import geni.rspec.pg as rspec
 import geni.rspec.igext as IG
